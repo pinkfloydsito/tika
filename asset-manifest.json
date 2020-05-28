@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tika/static/css/main.dd0069db.chunk.css",
+    "main.js": "/tika/static/js/main.34176de3.chunk.js",
+    "main.js.map": "/tika/static/js/main.34176de3.chunk.js.map",
+    "runtime-main.js": "/tika/static/js/runtime-main.709d9b9d.js",
+    "runtime-main.js.map": "/tika/static/js/runtime-main.709d9b9d.js.map",
+    "static/js/2.eadd0fde.chunk.js": "/tika/static/js/2.eadd0fde.chunk.js",
+    "static/js/2.eadd0fde.chunk.js.map": "/tika/static/js/2.eadd0fde.chunk.js.map",
+    "index.html": "/tika/index.html",
+    "precache-manifest.78c742b0633e8351108b7e95b0cf3362.js": "/tika/precache-manifest.78c742b0633e8351108b7e95b0cf3362.js",
+    "service-worker.js": "/tika/service-worker.js",
+    "static/css/main.dd0069db.chunk.css.map": "/tika/static/css/main.dd0069db.chunk.css.map",
+    "static/js/2.eadd0fde.chunk.js.LICENSE.txt": "/tika/static/js/2.eadd0fde.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tika/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.709d9b9d.js",
+    "static/js/2.eadd0fde.chunk.js",
+    "static/css/main.dd0069db.chunk.css",
+    "static/js/main.34176de3.chunk.js"
+  ]
+}
