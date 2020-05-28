@@ -1,0 +1,6 @@
+./node_modules
+./bower_components
+./build
+./buil.zip
+/public/css/
+/public/plugins/
